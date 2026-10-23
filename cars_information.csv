@@ -1,0 +1,101 @@
+car_make,car_model,car_year,car_color,car_price,car_transmission,car_fuel_type
+Audi,A8,1907,Violet,,manual,hybrid
+Kia,Sorento,1921,Purple,65596.49,manual,gasoline
+Ford,Aerostar,1968,Pink,,automatic,gasoline
+Lexus,IS,1978,Blue,87009.56,automatic,gasoline
+Ford,F250,2019,Goldenrod,,automatic,electric
+Mercury,Sable,1932,Teal,78812.31,manual,hybrid
+Chevrolet,Aveo,2002,Khaki,,manual,diesel
+Smart,Fortwo,1911,Mauv,39250.46,manual,gasoline
+Pontiac,Grand Prix,2017,Maroon,91348.68,automatic,electric
+GMC,Sierra,2009,Purple,83138.82,manual,hybrid
+Land Rover,LR3,1968,Crimson,90826.6,automatic,gasoline
+Chevrolet,S10,1995,Purple,19681.59,automatic,hybrid
+Chrysler,Sebring,1973,Mauv,83009.22,automatic,hybrid
+Mercedes-Benz,C-Class,1967,Mauv,58540.48,manual,gasoline
+Acura,TL,1940,Khaki,38556.34,automatic,electric
+Chevrolet,Prizm,1980,Green,8511.04,manual,electric
+Acura,RSX,1966,Indigo,,automatic,electric
+Toyota,Sienna,1904,Mauv,,manual,gasoline
+Acura,TSX,1930,Puce,,automatic,hybrid
+Cadillac,DeVille,1966,Maroon,,automatic,hybrid
+Lincoln,Mark LT,1944,Red,7934.1,automatic,hybrid
+Volvo,S40,2003,Purple,,automatic,gasoline
+Lamborghini,Reventón,2003,Mauv,38340.02,manual,electric
+Hyundai,Sonata,1988,Goldenrod,,automatic,electric
+Land Rover,Defender 90,1971,Khaki,26645.91,manual,gasoline
+Mitsubishi,Pajero,1997,Purple,44372.22,manual,diesel
+Dodge,Ram 2500,2015,Orange,81331.54,automatic,hybrid
+Suzuki,Forenza,2013,Fuscia,70925.97,manual,gasoline
+Mercedes-Benz,SLK-Class,1934,Blue,20351.91,automatic,electric
+Porsche,Panamera,1953,Violet,76740.04,automatic,electric
+Cadillac,DTS,1939,Khaki,,manual,electric
+Lexus,GX,1973,Orange,,manual,electric
+GMC,Envoy,1948,Maroon,,automatic,diesel
+Jeep,Wrangler,1960,Aquamarine,28452.97,manual,diesel
+Volkswagen,GTI,1913,Fuscia,71194.11,automatic,hybrid
+Ford,Expedition,1918,Crimson,58891.58,manual,hybrid
+Mercury,Montego,1900,Fuscia,94136.02,manual,hybrid
+Mercury,Villager,1998,Crimson,21975.23,automatic,hybrid
+Buick,Enclave,1941,Turquoise,29483.09,manual,hybrid
+Mazda,Mazda3,1933,Khaki,,manual,gasoline
+Ford,E-Series,1984,Aquamarine,21248.47,manual,electric
+Nissan,Armada,1964,Orange,65090.34,manual,gasoline
+Cadillac,Fleetwood,1914,Crimson,81344.12,automatic,electric
+Dodge,Ram 3500,1983,Goldenrod,31572.69,manual,hybrid
+Pontiac,Grand Prix,1980,Teal,32544.64,manual,hybrid
+Dodge,Grand Caravan,1981,Blue,,manual,gasoline
+Volvo,XC90,1908,Indigo,6036.6,manual,hybrid
+Chevrolet,Camaro,2021,Turquoise,90564.55,automatic,diesel
+GMC,Savana 2500,1974,Violet,20749.02,manual,diesel
+Buick,Enclave,1967,Green,86469.02,automatic,hybrid
+Pontiac,Grand Am,1978,Maroon,42204.95,automatic,hybrid
+Hyundai,Elantra,1908,Goldenrod,85755.71,automatic,hybrid
+Mitsubishi,GTO,1996,Green,32795.53,automatic,hybrid
+GMC,Sierra 3500,1924,Purple,13729.31,manual,gasoline
+Toyota,Celica,1981,Maroon,72595.02,manual,hybrid
+Ford,EXP,1920,Violet,,manual,hybrid
+Volkswagen,Jetta,1912,Maroon,13939.38,manual,electric
+Chevrolet,Impala,1986,Turquoise,73819.23,manual,hybrid
+Ford,Ranger,1960,Turquoise,53039.69,manual,diesel
+Kia,Rio,1979,Pink,,automatic,diesel
+Ford,E150,1945,Puce,83486.06,manual,hybrid
+GMC,Sierra 2500,1966,Fuscia,70798.0,automatic,gasoline
+Mercedes-Benz,C-Class,1990,Violet,,manual,gasoline
+Mitsubishi,Montero Sport,1952,Teal,85688.48,manual,diesel
+Mazda,RX-7,1990,Pink,86056.6,manual,diesel
+BMW,3 Series,2020,Turquoise,47340.25,automatic,gasoline
+Maybach,62,2019,Puce,15737.5,manual,gasoline
+Pontiac,Bonneville,1962,Purple,74856.4,automatic,hybrid
+Cadillac,CTS,1911,Pink,41404.76,manual,hybrid
+Toyota,Prius Plug-in Hybrid,1924,Violet,15873.6,manual,hybrid
+Mercury,Grand Marquis,1943,Yellow,,manual,electric
+Buick,LeSabre,1927,Yellow,20509.55,automatic,hybrid
+Buick,Lucerne,1905,Blue,71995.51,automatic,gasoline
+Volkswagen,Corrado,1943,Violet,,automatic,gasoline
+Lexus,ES,2004,Pink,44896.46,automatic,hybrid
+Saab,9000,1999,Maroon,,manual,gasoline
+Cadillac,Escalade EXT,2006,Yellow,54600.17,automatic,electric
+Land Rover,Discovery,2002,Teal,67583.34,manual,diesel
+Mazda,B-Series Plus,2002,Turquoise,,manual,hybrid
+Mitsubishi,Lancer,2008,Crimson,48057.43,manual,diesel
+Mercury,Mariner,2003,Teal,62017.34,manual,hybrid
+Suzuki,Esteem,1915,Pink,63058.0,manual,diesel
+Mazda,MX-6,2011,Blue,,manual,diesel
+Buick,Skylark,1970,Maroon,28115.17,manual,hybrid
+Toyota,Camry Hybrid,1924,Green,61907.03,manual,diesel
+Lamborghini,Gallardo,1932,Purple,15220.46,automatic,electric
+Jaguar,XK Series,1963,Purple,60240.13,manual,gasoline
+Chevrolet,Express,2019,Maroon,51450.21,automatic,diesel
+Chrysler,Crossfire,1979,Maroon,70009.78,automatic,electric
+Suzuki,XL-7,2004,Fuscia,,manual,diesel
+Toyota,4Runner,1945,Turquoise,,automatic,hybrid
+Chevrolet,Astro,2014,Maroon,46085.91,manual,diesel
+Mercedes-Benz,S-Class,2006,Aquamarine,9318.67,automatic,diesel
+Cadillac,Seville,1919,Red,32093.27,manual,diesel
+Chevrolet,Suburban 1500,1982,Violet,52010.79,manual,electric
+Land Rover,Defender,1969,Maroon,21413.85,manual,electric
+Volvo,C70,1981,Puce,57725.21,automatic,hybrid
+Nissan,300ZX,1930,Maroon,87082.03,manual,hybrid
+Jaguar,X-Type,1933,Orange,65349.68,automatic,diesel
+BMW,M3,1985,Purple,,manual,electric
